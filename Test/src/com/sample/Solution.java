@@ -29,7 +29,7 @@ public class Solution {
 		System.out.println("enter length of the array");
 		int length = scan.nextInt();
 		int[] inputArray = new int[length];
-		System.out.println("enter the numbers of array");
+		System.out.println("enter   the numbers of array");
 		for(int i=0;i<length;i++){
 			inputArray[i] = scan.nextInt();
 		}
